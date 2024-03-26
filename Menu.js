@@ -8,16 +8,16 @@ function Menu() {
         <h4>Platters</h4>
         <ul>
           <li>item 1</li>
-          <li> item 2</li>
-          <li> item 3</li>
+          <li>item 2</li>
+          <li>item 3</li>
         </ul>
       </div>
       <div>
         <h4>Sandwiches</h4>
         <ul>
           <li>item 1</li>
-          <li> item 2</li>
-          <li> item 3</li>
+          <li>item 2</li>
+          <li>item 3</li>
         </ul>
       </div>
       </div>
@@ -26,16 +26,16 @@ function Menu() {
         <h4>Salads</h4>
         <ul>
           <li>item 1</li>
-          <li> item 2 </li>
-          <li> item 3</li>
+          <li>item 2</li>
+          <li>item 3</li>
         </ul>
       </div>
       <div>
         <h4>Appetizers</h4>
         <ul>
           <li>item 1</li>
-          <li> item 2</li>
-          <li> item 3</li>
+          <li>item 2</li>
+          <li>item 3</li>
         </ul>
       </div>
       </div>
@@ -44,16 +44,16 @@ function Menu() {
         <h4>Desserts</h4>
         <ul>
           <li>item 1</li>
-          <li> item 2 </li>
-          <li> item 3</li>
+          <li>item 2</li>
+          <li>item 3</li>
         </ul>
       </div>
       <div>
         <h4>Beverages</h4>
         <ul>
           <li>item 1</li>
-          <li> item 2</li>
-          <li> item 3</li>
+          <li>item 2</li>
+          <li>item 3</li>
         </ul>
       </div>
       </div>
