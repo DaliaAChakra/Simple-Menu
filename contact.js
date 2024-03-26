@@ -10,9 +10,7 @@ function Contact() {
       <div className="body">
         <h2>Contact Us</h2>
         <ul>
-          <li>Dalia Abou Shakra</li>
-          <li>Shadi Abou Karroum</li>
-          <li>salam Abou Shakra</li>
+          <li>Dalia Abou Chakra</li>
         </ul>
       </div>
     </div>
